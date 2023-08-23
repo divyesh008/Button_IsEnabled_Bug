@@ -1,1 +1,1 @@
-# Button_IsEnabled_Bug
+# Button IsEnabled property not works when used with Command property. 
